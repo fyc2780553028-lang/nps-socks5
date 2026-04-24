@@ -49,7 +49,7 @@ fi
 
 # 异常日志输出
 function exception_log() {
-    echo "$1 - "
+    echo "$1"
 }
 
 # 构造文件名
