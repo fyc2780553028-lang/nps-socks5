@@ -22,7 +22,6 @@
 ## 方法一：一键安装或更新到最新 ##
  <pre><code>curl --progress-bar -O https://raw.githubusercontent.com/fyc2780553028-lang/nps-socks5/master/install.sh && chmod +x install.sh && ./install.sh</code></pre>
  ## 方法二:linux、windows均支持，需要安装go语言环境进行编译
- [参考NPS文档](https://ehang-io.github.io/nps/#/install)<br>
  1、安装源码
   <pre><code>go get -u github.com/wyx176/nps-socks5</code></pre>
 2、编译服务端：进入到nps-socks5文件夹中执行命令
@@ -55,6 +54,3 @@ allow_user_register=true<br>
 -2022.10.03 v2.0<br>
 1、增加多端口、多账号设置<br>
 -2022.09.03 v1.0<br>
-
-## 写在最后 ##
-Telegram交流群:https://t.me/Socks55555
