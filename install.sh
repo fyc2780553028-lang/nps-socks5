@@ -4,7 +4,7 @@ export LC_ALL=en_US.UTF-8
 # 文件下载存储路径
 SOCKS5_PATH="/opt/nps-socks5"
 # GitHub仓库信息
-REPO_OWNER="wyx176"
+REPO_OWNER="fyc2780553028-lang"
 REPO_NAME="nps-socks5"
 
 # 获取操作系统类型和架构
@@ -49,7 +49,7 @@ fi
 
 # 异常日志输出
 function exception_log() {
-    echo "$1 - 反馈群组 https://t.me/Scoks55555"
+    echo "$1 - "
 }
 
 # 构造文件名
